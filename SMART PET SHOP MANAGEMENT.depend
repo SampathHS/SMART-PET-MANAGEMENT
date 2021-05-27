@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622114355 source:c:\users\sampa\documents\code\smart pet shop management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
